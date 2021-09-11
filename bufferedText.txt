@@ -1,0 +1,7 @@
+User,Jessa Test
+
+MedicalHistory: withCommorbidies=false, withFoodAllergy=false, withMedicationAllergy=false
+Vaccine:name='Pfizer', batchNo='P101', interval='21'
+Assisted By:Dela Cruz,Juan Luzviminda licenseNo='JLDC101'
+
+Second visit schedule: Sat Oct 02 09:37:28 PST 2021
